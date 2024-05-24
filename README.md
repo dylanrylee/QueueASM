@@ -1,6 +1,5 @@
 # Queue Data Structure in Assembly ARMv8-A
-UofC CPSC 355 Assignment 5\\
-This code is an implementation of the queue data structure but in Assembly ARMv8-A. 
+UofC CPSC 355 Assignment 5
 
 ## What I did/learned
 - Understanding Subroutines: Developed proficiency in creating and utilizing subroutines in assembly language to encapsulate queue operations efficiently while using Vim.
